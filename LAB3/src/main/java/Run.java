@@ -44,5 +44,6 @@ public class Run {
 
         System.out.println("Group: " + group.getName());
         System.out.println("Head: " + group.getHead().getFullName());
+        // End programme
     }
 }
